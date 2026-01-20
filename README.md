@@ -14,5 +14,8 @@ The Population Graphs App is a web application that displays population graphs f
 - View population graphs for different countries
 - Interact with the graphs to explore data for specific years
 
+## Link to the app
+[Population Graphs](https://dovile-mart.github.io/PopulationGraphs)
+
 #
 ![Population Graph](./populationGraphs.png)
