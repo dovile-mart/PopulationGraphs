@@ -11,9 +11,10 @@
 <body>
     <div class='content'>
         <h1>Population graphs</h1>
-        <p>Enter three letter <a href="https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes" target="_blank">country
-            code</a></p>
-        <input class='textinput' placeholder='Country' type='text' id='country' maxlength='3' />
+        
+        <select id="country">
+            <option value="">Choose country</option>
+        </select>
         <p>
             <button class='button' id='renderBtn'>Render population graph</button>
         </p>

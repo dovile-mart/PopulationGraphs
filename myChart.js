@@ -73,3 +73,23 @@ function getCountryName(data) {
     return countryName;
 }
 
+async function loadAllCountries() {
+    const res = await fetch(
+        'https://api.worldbank.org/v2/country?per_page=400&format=json'
+    );
+    const data = await res.json();
+
+   const select = document.getElementById('country');
+
+    data[1]
+      .filter(c => c.region.value !== "Aggregates") // pois "World", "EU", ym.
+      .sort((a, b) => a.name.localeCompare(b.name))
+      .forEach(c => {
+          const option = document.createElement('option');
+          option.value = c.id;
+          option.textContent = `${c.id} – ${c.name}`;
+          select.appendChild(option);
+      });
+}
+
+loadAllCountries();
