@@ -17,5 +17,16 @@ The Population Graphs App is a web application that displays population graphs f
 ## Link to the app
 [Population Graphs](https://dovile-mart.github.io/PopulationGraphs)
 
-#
-![Population Graph](./populationGraphs.png)
+# 
+### Population Graphs v.1
+<!--![Population Graph V1.](./populationGraphs.png)-->
+<img src="./populationGraphs.png" alt="" style="width:50%; height:auto">
+
+### Population Graphs v.2
+
+<img src="./populationGraphs2.png" alt="" style="width:50%; height:auto">
+<img src="./populationGraphs2-1.png" alt="" style="width:50%; height:auto">
+<img src="./populationGraphs2-2.png" alt="" style="width:50%; height:auto">
+<!-- ![Population Graph V2.](populationGraphs2.png)
+![Population Graph V2.](populationGraphs2-1.png)
+![Population Graph V2.](populationGraphs2-2.png)-->
