@@ -25,8 +25,8 @@ The Population Graphs App is a web application that displays population graphs f
 ### Population Graphs v.2
 
 <img src="./populationGraphs2.png" alt="" style="width:50%; height:auto; border:1">
-<img src="./populationGraphs2-1.png; border:1" alt="" style="width:50%; height:auto; border:1">
-<img src="./populationGraphs2-2.png" alt="" style="width:50%; height:auto">
+<img src="./populationGraphs2-1.png" alt="" style="width:50%; height:auto; border:1">
+<img src="./populationGraphs2-2.png" alt="" style="width:50%; height:auto; border:1">
 <!-- ![Population Graph V2.](populationGraphs2.png)
 ![Population Graph V2.](populationGraphs2-1.png)
 ![Population Graph V2.](populationGraphs2-2.png)-->
